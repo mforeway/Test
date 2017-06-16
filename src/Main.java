@@ -9,6 +9,7 @@ public class Main {
 
         System.out.println("the newest");
 
-        System.out.println("after last");
+
+        System.out.println("it will be another");
     }
 }
