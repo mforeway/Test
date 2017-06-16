@@ -8,5 +8,7 @@ public class Main {
         System.out.println("new message");
 
         System.out.println("the newest");
+
+        System.out.println("after last");
     }
 }
